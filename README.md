@@ -11,7 +11,7 @@ This repository is for [Child Mind Institute - Detect Sleep States](https://www.
 
 MacOS
 ```zsh
-curl -sSf https://rye-up.com/get | bash
+curl -sSf https://rye.astral.sh/get | bash
 echo 'source "$HOME/.rye/env"' >> ~/.zshrc
 source ~/.zshrc
 ```
