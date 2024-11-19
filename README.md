@@ -18,7 +18,7 @@ source ~/.zshrc
 
 Linux
 ```bash
-curl -sSf https://rye-up.com/get | bash
+curl -sSf https://rye.astral.sh/get | bash
 echo 'source "$HOME/.rye/env"' >> ~/.bashrc
 source ~/.bashrc
 ```
